@@ -1,0 +1,28 @@
+_repo: De-l-origine-et-de-l-institution-du-notariatbelles-lettres-et-arts-de-Clermont-Ferrand_40374
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40374-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fabre, Euryale
+    gutenberg_agent_id: '40580'
+    url: http://www.gutenberg.org/2009/agents/40580
+description: ''
+gutenberg_bookshelf:
+- FR Services publics
+- FR Histoire
+gutenberg_issued: '2012-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40374'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Notaries -- History'
+- !lcc 'K'
+title: "De l'origine et de l'institution du notariat\r\nPrécis historique lu à  l'Academie\
+  \ des Sciences, belles-lettres et arts de Clermont-Ferrand"
+url: http://www.gutenberg.org/ebooks/40374
