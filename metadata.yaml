@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40580'
     url: http://www.gutenberg.org/2009/agents/40580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40374#De-l-origine-et-de-l-institution-du-notariatbelles-lettres-et-arts-de-Clermont-Ferrand
 gutenberg_bookshelf:
 - FR Services publics
 - FR Histoire
